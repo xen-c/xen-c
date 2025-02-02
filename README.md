@@ -2,8 +2,8 @@
 
 
 - 🌍 I'm based in South Africa.
-- 🌱 I’m currently a student pursuing my degree in BSc Computer Science.
-- 🧠 I'm learning C#, JavaScript,React, HTML, CSS
+- 🌱 I’m currently a recent graduate in BSc IT majoring in Computer Science and Management.
+- 🧠 I'm proficient in C#, SQL, JavaScript, HTML, CSS and eager to create projects to showcase my C# and data analytics skills.
 - 🦋 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 📫 You can reach me by email: zenandecewuka@gmail.com
 
